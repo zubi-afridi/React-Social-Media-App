@@ -21,5 +21,17 @@ A simple social media application that allows users to post and view posts. Buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zubi-afridi/React-Social-Media-App.git
+   git clone https://github.com/your-username/your-repo.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd social
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
    ```
